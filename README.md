@@ -1,14 +1,36 @@
-### Olá, Eu sou o Kalil Aziz Santos Chami
+## 👨‍💻 Kalil Aziz Santos Chami | Desenvolvedor Full Stack
 
+### 🚀 Bem-vindo ao meu perfil! <br>
+Sou um entusiasta da programação, especializado em desenvolvimento full stack. Minha jornada tem sido marcada pela busca incessante da excelência técnica, focando especialmente em performance e manutenabilidade. Atualmente, especializado em Next.js (frontend) e Nest.js (backend).
 
-**KalilAziz/KalilAziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Experiência Profissional
 
-Here are some ideas to get you started:
+- Desenvolvedor Full Stack Sênior
+- Especialização em Next.js (Frontend) e Nest.js (Backend)
 
-- 🔭  Hoje trabalho com desenvolvedor web Front-end
-- 🌱  Estou estudando Typescript e ReactJs
-- 💬  Contate-me no email: kalilazizsantoschami@hotmail.com
-  
+### 🌟 Destaques
+
+- Abraço desafios complexos com entusiasmo
+- Expert em criar interfaces intuitivas e eficientes
+- Arquiteto de sistemas robustos para garantir escalabilidade
+- Comprometido com a qualidade técnica e experiência do usuário
+- Colaborador excepcional em ambientes de equipe
+
+### 🚀 O que me Impulsiona
+
+- Desafios Inspiradores: Adoro enfrentar problemas complexos que demandam soluções inovadoras.
+- Performance e Eficiência: Minha busca constante é por aplicações rápidas e eficientes.
+- Código Limpo e Sustentável: Comprometido em escrever código que seja fácil de manter e entender.
+
+### 📚 Aprendizado Contínuo
+Acredito que a tecnologia está sempre evoluindo, e estou constantemente aprendendo e me atualizando para acompanhar as últimas tendências e melhores práticas.
+
+### 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/kalil-aziz/)
+
+Vamos criar algo incrível juntos! 🚀
+
 <hr>
 
 ### Front-end:
@@ -117,7 +139,6 @@ Here are some ideas to get you started:
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql&labelColor=0d1117&color=0d1117)
 ![jira](https://img.shields.io/badge/-jira-0D1117?style=for-the-badge&logo=jira&labelColor=0d1117&color=0d1117)
 ![trello](https://img.shields.io/badge/-trello-0D1117?style=for-the-badge&logo=trello&labelColor=0d1117&color=0d1117)
-
 ![notion](https://img.shields.io/badge/-notion-0D1117?style=for-the-badge&logo=notion&labelColor=0d1117&color=0d1117)
 
 ### Extensões e plugins:
@@ -129,7 +150,6 @@ Here are some ideas to get you started:
 ![conventional commits](https://img.shields.io/badge/-conventional%20commits-0D1117?style=for-the-badge&logo=json&labelColor=0D1117)
 ![dev containers](https://img.shields.io/badge/-dev%20containers-0D1117?style=for-the-badge&logo=json&labelColor=0D1117)
 ![docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=json&labelColor=0D1117)
-
 ![kubernetes](https://img.shields.io/badge/-kubernetes-0D1117?style=for-the-badge&logo=json&labelColor=0D1117)
 ![prisma](https://img.shields.io/badge/-prisma-0D1117?style=for-the-badge&logo=json&labelColor=0D1117)
 ![git lens](https://img.shields.io/badge/-git%20lens-0D1117?style=for-the-badge&logo=json&labelColor=0D1117)
