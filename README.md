@@ -153,3 +153,5 @@ Vamos criar algo incrível juntos! 🚀
 ![kubernetes](https://img.shields.io/badge/-kubernetes-0D1117?style=for-the-badge&logo=json&labelColor=0D1117)
 ![prisma](https://img.shields.io/badge/-prisma-0D1117?style=for-the-badge&logo=json&labelColor=0D1117)
 ![git lens](https://img.shields.io/badge/-git%20lens-0D1117?style=for-the-badge&logo=json&labelColor=0D1117)
+
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KalilAziz\&theme=dark&layout=compact&langs_count=6)
